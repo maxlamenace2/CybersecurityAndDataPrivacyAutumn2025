@@ -21,3 +21,4 @@
 | 6.12.2025 | 2h 30 | Continue BookingSystem-Phase2 | End BookingSystem-Phase2 |
 | 9.12.2025 | 4h | BookingSystem-Phase3 | End BookingSystem-Phase3 |
 | 11.12.2025 | 2h | Lecture-Phase4 | End Lecture-Phase4 |
+| 16.12.2025 | 3h | BookingSystem-Phase3 | End BookingSystem-Phase3 |
