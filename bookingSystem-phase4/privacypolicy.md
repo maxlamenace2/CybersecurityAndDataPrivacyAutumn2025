@@ -1,36 +1,38 @@
 # Privacy Policy
 
+**Last Updated:** December 16, 2025
 
-Welcome to the CentriaCyber Booking System. We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy, or our practices with regards to your personal information, please contact us.
+## 1. Introduction
+Welcome to the **Resource Booking System**. We are committed to protecting your personal data and respecting your privacy in accordance with the General Data Protection Regulation (GDPR). This policy explains how we collect, use, and protect your information.
 
-## 1. Information We Collect
+## 2. Data We Collect
+We adhere to the principle of **Data Minimization**. We only collect the data strictly necessary for the system to function:
+* **Account Information:** Username, Email address, and Password (stored securely).
+* **Age Verification:** Date of Birth (strictly to ensure compliance with our 15+ age requirement).
+* **Booking Data:** Details of resources reserved and timeslots.
 
-We collect personal information that you voluntarily provide to us when registering at the Booking System expressed an interest in obtaining information about us or our products and services, when participating in activities on the specific Landing Page or otherwise contacting us.
+## 3. Purpose of Processing
+We process your personal data for the following lawful purposes:
+* **Service Delivery:** To create your account and manage your resource reservations.
+* **Legal Compliance:** To verify that you meet the minimum age requirement (15 years old).
+* **System Security:** To protect the application against unauthorized access and abuse.
 
-The personal information that we collect depends on the context of your interactions with us and the Booking System, the choices you make and the products and features you use. The personal information we collect can include the following:
+## 4. Privacy by Design (Public Visibility)
+Our system follows the **Privacy by Design** principle. While the booking calendar is visible to the public to show resource availability:
+* **Your identity is NEVER displayed publicly.**
+* Booked slots are marked as "Reserved" without revealing your name or email to other users.
 
-* **Credentials:** We collect email addresses and passwords for authentication.
-* **Personal Details:** We collect your birthdate to verify age eligibility (users must be over 15 years old).
-* **Role Data:** We store your user role (e.g., Guest, Reserver, Administrator) to manage permissions.
-* **Reservation Data:** We collect data regarding the resources you book, including start and end times.
+## 5. Data Retention and Erasure
+We retain your data only as long as your account is active.
+* **Right to Erasure ("Right to be Forgotten"):** You may request the deletion of your account at any time.
+* **Administrator Rights:** System administrators have the authority to delete user accounts and associated data if the terms of service are violated or upon request.
 
-## 2. How We Use Your Information
+## 6. Your Rights Under GDPR
+You have the right to:
+* Access the personal data we hold about you.
+* Correct any inaccurate personal data.
+* Request the deletion of your data.
+* Withdraw your consent to data processing (by deleting your account).
 
-We use personal information collected via our Booking System for a variety of business purposes described below:
-
-* **To facilitate account creation and logon process:** We use your email and password to secure your session.
-* **To manage user reservations:** We use your ID to link booked resources to your account.
-* **To enforce policies:** We use your birthdate to ensure compliance with our age restrictions.
-* **Administrative information:** We may use your personal information to send you product, service and new feature information and/or information about changes to our terms, conditions, and policies.
-
-## 3. Will Your Information be Shared with Anyone?
-
-We only share information with your consent, to comply with laws, to provide you with services, to protect your rights, or to fulfill business obligations. We do not sell your data to third-party advertisers.
-
-## 4. How Long Do We Keep Your Information?
-
-We keep your information for as long as necessary to fulfill the purposes outlined in this privacy policy unless otherwise required by law.
-
-## 5. Contact Us
-
-If you have questions or comments about this policy, you may contact the development team via the GitHub repository.
+## 7. Contact
+If you have any questions regarding this policy or your data, please contact the system administrator.
