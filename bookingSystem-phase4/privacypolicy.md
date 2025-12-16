@@ -1,6 +1,5 @@
 # Privacy Policy
 
-**Last Updated:** 2025-01-01
 
 Welcome to the CentriaCyber Booking System. We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy, or our practices with regards to your personal information, please contact us.
 
