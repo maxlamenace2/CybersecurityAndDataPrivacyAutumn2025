@@ -24,4 +24,4 @@
 | 16.12.2025 | 3h | BookingSystem-Phase3 | End BookingSystem-Phase3 |
 | 18.12.2025 | 3h |  6 labs PortSwigger | End 6 labs PortSwigger |
 | 19.12.2025 | 3h |  6 labs PortSwigger | End 6 labs PortSwigger |
-| 19.12.2025 | 2h |  Final assignment | End Final assignment |
+| 20.12.2025 | 2h |  Final assignment | End Final assignment |
